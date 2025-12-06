@@ -4,5 +4,4 @@
 Этот репозиторий является каркасом для будущего ЛУЧШЕГО веб-приложения.
 
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://artem777764.github.io/
-digital_project_1/)
+- [Публичная страница на GitHub Pages](https://artem777764.github.io/digital_project_1/)
